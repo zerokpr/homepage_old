@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/homepage/static/css/main.70da4ff0.chunk.css",
+    "main.js": "/homepage/static/js/main.d572c3a5.chunk.js",
+    "main.js.map": "/homepage/static/js/main.d572c3a5.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.3ed86e83.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.3ed86e83.js.map",
+    "static/js/2.cd0c5373.chunk.js": "/homepage/static/js/2.cd0c5373.chunk.js",
+    "static/js/2.cd0c5373.chunk.js.map": "/homepage/static/js/2.cd0c5373.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.8ae82fe6a982781b05519b4956315cf3.js": "/homepage/precache-manifest.8ae82fe6a982781b05519b4956315cf3.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.70da4ff0.chunk.css.map": "/homepage/static/css/main.70da4ff0.chunk.css.map",
+    "static/js/2.cd0c5373.chunk.js.LICENSE.txt": "/homepage/static/js/2.cd0c5373.chunk.js.LICENSE.txt",
+    "static/media/atcoder_icon.png": "/homepage/static/media/atcoder_icon.e6ca9343.png",
+    "static/media/c_icon.png": "/homepage/static/media/c_icon.c7b5a93c.png",
+    "static/media/cpp_icon.png": "/homepage/static/media/cpp_icon.02d5eb33.png",
+    "static/media/my_icon.jpg": "/homepage/static/media/my_icon.06182169.jpg",
+    "static/media/py_icon.png": "/homepage/static/media/py_icon.69dc34bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ed86e83.js",
+    "static/js/2.cd0c5373.chunk.js",
+    "static/css/main.70da4ff0.chunk.css",
+    "static/js/main.d572c3a5.chunk.js"
+  ]
+}
