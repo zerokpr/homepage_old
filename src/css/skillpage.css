@@ -1,0 +1,65 @@
+.skillpage {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+    max-width: 1300px;
+}
+
+.skillpage-comment {
+    margin: 30px;
+    margin-left: 60px;
+    font-family: "メイリオ", sans-serif;
+    font-size: 20px;
+}
+
+.langbox {
+    position: relative;
+    display: inline-block;
+    background-color: rgb(252, 255, 72);
+    border-radius: 30px;
+    height: 250px;
+    max-width: 370px;
+    min-width: 350px;
+    width: 30%;
+    padding-top: 10px;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin-top: 10px;
+    margin-left: 10%;
+    margin-bottom:10px;
+    color: black;
+    object-fit: cover;
+}
+
+.lang-icon {
+    position: absolute;
+    width: 21%;
+    height: 30%;
+    padding: 5px;
+    object-fit: contain;
+    background-color: white;
+    /* border: solid #444444 1px; */
+    border-radius: 10px;
+}
+
+
+.lang-name { 
+    position: absolute;
+    padding-left: 30%;
+    padding-top: 5%;
+    width: 21%;
+    height: 30%;
+    font-size: 45px;
+    font-family: "Century Gothic", Helvetica, sans-serif;
+    object-fit: contain;
+}
+
+.langbox-comment {
+    position: absolute;
+    margin-left: 0px;
+    margin-right: 5%;
+    margin-top: 30%;
+    font-size-adjust: initial;
+    font-family: "メイリオ"; 
+}

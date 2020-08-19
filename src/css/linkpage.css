@@ -1,0 +1,31 @@
+.link_head {
+    margin-top: 10px;
+    font-size: 35px;
+    font-family: "メイリオ", sans-serif;
+}
+
+.icons {
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+}
+
+.icons > li {
+    display: inline;
+    margin-right: 70px;
+}
+
+.iconlink {
+    margin-left: 0px;
+}
+
+.linkpage {
+    background-color: #555555;
+    position: absolute;
+    font-family: sans-serif;
+    font-size: 20px;
+    top: 40%;
+    transform: translateY(-50%);
+    left: 50%;
+    transform: translateX(-50%);
+}

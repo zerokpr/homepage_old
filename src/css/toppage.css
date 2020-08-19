@@ -1,0 +1,14 @@
+div.toppage{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 50%;
+    transform: translateX(-50%);
+    font-family: "Century Gothic", sans-serif;
+}
+
+div.toppage h2{
+    position: relative;
+    text-align: center;
+    font-family: "Century Gothic", sans-serif;
+}
